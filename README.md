@@ -79,6 +79,30 @@ flutter run
       <img src="https://github.com/Nickbro2083/Social-Media-App/blob/8ae9c83dda2b50dee73097a096d93bc05d532884/demo/home.jpg" width="220"><br>
       <b>Home Page</b>
     </td>
+    <td align="center">
+      <img src="https://github.com/Nickbro2083/Social-Media-App/blob/9358abf6b3e483b61b65bce6d2f9bc53bcc17cfe/demo/bio.jpg" width="220"><br>
+      <b>Profile Page</b>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Nickbro2083/Social-Media-App/blob/9358abf6b3e483b61b65bce6d2f9bc53bcc17cfe/demo/Setting.jpg" width="220"><br>
+      <b>Settings Tab</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Nickbro2083/Social-Media-App/blob/9358abf6b3e483b61b65bce6d2f9bc53bcc17cfe/demo/Post.jpg" width="220"><br>
+      <b>Posting</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Nickbro2083/Social-Media-App/blob/9358abf6b3e483b61b65bce6d2f9bc53bcc17cfe/demo/userChat.png" width="220"><br>
+      <b>Chat Homepage</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Nickbro2083/Social-Media-App/blob/9358abf6b3e483b61b65bce6d2f9bc53bcc17cfe/demo/chat.png" width="220"><br>
+      <b>Chat Window</b>
+    </td>
   </tr>
 </table>
 
