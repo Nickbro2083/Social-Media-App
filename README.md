@@ -105,6 +105,14 @@ flutter run
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Nickbro2083/Social-Media-App/blob/fcd0e9e1aee6282ed721f2980dade52364ec0569/demo/searchUser.jpg" width="220"><br>
+      <b>User Search Page</b>
+    </td>
+  </tr>
+</table>
 
 ## Learning Outcomes
 
