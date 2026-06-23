@@ -65,10 +65,10 @@ flutter run
 
 ## Screenshots
 
-
+![image alt](https://github.com/Nickbro2083/Social-Media-App/blob/7a5529d8ebc2c7d8b75bc3f27c4b0f5ff73866c6/demo/login.jpg)
 
 ```markdown
-![Login Screen](https://github.com/Nickbro2083/Social-Media-App/blob/7a5529d8ebc2c7d8b75bc3f27c4b0f5ff73866c6/demo/login.jpg)
+
 ![Home Feed](screenshots/home.png)
 ![Profile Screen](screenshots/profile.png)
 ```
