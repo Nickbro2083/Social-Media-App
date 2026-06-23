@@ -32,7 +32,7 @@ A mobile social networking application built with **Flutter** and **Firebase**, 
 ### Prerequisites
 
 * Flutter SDK
-* Android Studio or VS Code
+* Android Studio 
 * Firebase Project
 
 ### Installation
