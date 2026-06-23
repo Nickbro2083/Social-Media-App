@@ -65,13 +65,22 @@ flutter run
 
 ## Screenshots
 
-![image alt](https://github.com/Nickbro2083/Social-Media-App/blob/7a5529d8ebc2c7d8b75bc3f27c4b0f5ff73866c6/demo/login.jpg)
-
-```markdown
-
-![Home Feed](screenshots/home.png)
-![Profile Screen](screenshots/profile.png)
-```
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Nickbro2083/Social-Media-App/blob/7a5529d8ebc2c7d8b75bc3f27c4b0f5ff73866c6/demo/login.jpg" width="220"><br>
+      <b>Login Screen</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/home.png" width="220"><br>
+      <b>Home Feed</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/profile.png" width="220"><br>
+      <b>Profile Page</b>
+    </td>
+  </tr>
+</table>
 
 ## Learning Outcomes
 
