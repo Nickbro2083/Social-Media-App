@@ -72,12 +72,12 @@ flutter run
       <b>Login Screen</b>
     </td>
     <td align="center">
-      <img src="screenshots/home.png" width="220"><br>
-      <b>Home Feed</b>
+      <img src="https://github.com/Nickbro2083/Social-Media-App/blob/8ae9c83dda2b50dee73097a096d93bc05d532884/demo/createAcc.jpg" width="220"><br>
+      <b>Create Account</b>
     </td>
     <td align="center">
-      <img src="screenshots/profile.png" width="220"><br>
-      <b>Profile Page</b>
+      <img src="https://github.com/Nickbro2083/Social-Media-App/blob/8ae9c83dda2b50dee73097a096d93bc05d532884/demo/home.jpg" width="220"><br>
+      <b>Home Page</b>
     </td>
   </tr>
 </table>
